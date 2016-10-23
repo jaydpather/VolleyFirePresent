@@ -1,0 +1,6 @@
+<material>
+    <technique name="Techniques/Diff.xml" quality="0" />
+    <texture unit="diffuse" name="Textures/infantryStanding.png" />
+    <parameter name="UOffset" value="1 0 0 0" />
+    <parameter name="VOffset" value="0 1 0 0" />
+</material>
